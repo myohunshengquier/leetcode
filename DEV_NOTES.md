@@ -10,3 +10,8 @@ Personal development log — notes, findings, and ongoing work.
 - Updated dependencies to latest stable versions
 - Wrote notes on upcoming feature design
 - Reorganised test fixtures
+
+## 2026-03-23
+- Documented config options
+- Resolved TODO items from previous session
+- Resolved deprecation warnings
